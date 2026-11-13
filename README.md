@@ -236,3 +236,12 @@ work][donate]:
     WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
     See the License for the specific language governing permissions and
     limitations under the License.
+
+---
+
+### Créditos e fonte original
+
+Este repositório é um fork de [Genymobile/scrcpy](https://github.com/Genymobile/scrcpy), criado e mantido pelos autores originais. Todo o crédito é deles.  
+Licença: Apache License 2.0 (mantida sem alterações).
+
+**Fonte original:** https://github.com/Genymobile/scrcpy
